@@ -9,7 +9,7 @@ NOT YET! - Sequential Lexing? and Parallel Parsing. Only SavedGameData ( exactly
 parallel parsing for json file?
 
 # But, it takes many memory, and effect of parallel is small? 
-#                         just about 1 seconds ( for 50MB file )?
+#                         just about 1 second ( for 50MB file )?
 
 # Parallel Parsing Idea
 NOT YET!
