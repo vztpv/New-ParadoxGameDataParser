@@ -1,9 +1,9 @@
 # New-ParadoxGameDataParser
-NOT YET! - Parallel Lexing and Parallel Parsing. 
+NOT YET! - Parallel Lexing and Parallel Parsing, and Support Line Comment.
 
-# This is experimental.
+# This is experimental?
 
-# Maybe 
+# Also,
 parallel parsing for json file?
 
 # Parallel Parsing Idea
